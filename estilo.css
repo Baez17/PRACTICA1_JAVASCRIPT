@@ -1,0 +1,12 @@
+div p{
+    font-family: Arial black;
+    color: black; 
+    font-size: medium;
+    text-align: center;
+}
+div p :hover{
+    color: blue;
+}
+body{
+    background-color: bisque;
+}
